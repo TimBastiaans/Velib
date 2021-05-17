@@ -1,8 +1,0 @@
-Veranderingen van vorige versie:
-
- - admintabel
- - is_student kolom bij klant
- - geboortedatum komom bij klant
- - constraints voor business rules 1t/m10 en 14
-
-Er staat geen data in
